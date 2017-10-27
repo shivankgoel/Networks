@@ -1,0 +1,7 @@
+Server takes 2 arguments wwith echo.c : PortNumber P      //PortNumber Refers to port to start server and P is Packet Size
+Sample Call to server : ./echo 55555 100
+
+Client takes 5 arguments ServerName PortNumber T P OutputFile //NameOfHost Port:must be same of server T:RC P:PacketSize OutputFileName 
+Sample Call to client : ./client shivank-Inspiron-7348 55555 20 100 output1
+
+

@@ -1,0 +1,7 @@
+Some of you have been asking which parts of the text book to read for the minor. 
+You should definitely read everything from the beginning of the textbook (Peterson & Davie) up to and including Ch. 2.2.
+
+In addition, you need to be familiar with all the material discussed in class. 
+We will cover material of DLL and higher layers in subsequent classes. 
+Reading the chapters on those layers from the textbook is not essential for the minor, 
+but you need to know at least the brief intro given to those layers in class.

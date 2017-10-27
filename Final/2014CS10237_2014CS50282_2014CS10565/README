@@ -1,0 +1,6 @@
+Every time you check the program please restart the receiver also along with sender 
+
+Run the following commands in two terminals
+$ make
+$ ./receiver portnumber 			#Terminal 1
+$ ./sender  IP portnumber [-l] [{0,1}]		#Terminal 2

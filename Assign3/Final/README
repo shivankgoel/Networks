@@ -1,0 +1,4 @@
+Run the following commands in two terminals
+$ make
+$ ./receiver portnumber 			#Terminal 1
+$ ./sender  IP portnumber [-l] [{0,1}]		#Terminal 2

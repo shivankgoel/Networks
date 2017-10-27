@@ -1,0 +1,5 @@
+# this target will compile all the files
+all:
+	g++ client.c -o client echo.c -o echo
+clean:
+	rm -rf *o evenpath

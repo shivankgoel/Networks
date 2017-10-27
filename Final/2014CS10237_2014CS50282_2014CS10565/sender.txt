@@ -1,0 +1,541 @@
+inet OK
+W=  1000 Time=  37 Seq No=  0
+W=  2000 Time=  431471 Ack=  1000
+W=  2000 Time=  431473 Seq No=  0
+W=  2000 Time=  431566 Seq No=  1000
+W=  2000 Time=  431584 Seq No=  2000
+W=  2000 Time=  436334 Ack=  -1
+W=  2500 Time=  437181 Ack=  2000
+W=  2500 Time=  437183 Seq No=  3000
+W=  2500 Time=  437212 Seq No=  3500
+W=  2900 Time=  437763 Ack=  3000
+W=  2900 Time=  437766 Seq No=  4500
+W=  2900 Time=  437785 Seq No=  5500
+W=  3244 Time=  442652 Ack=  3500
+W=  3244 Time=  442654 Seq No=  5900
+W=  3552 Time=  444474 Ack=  4500
+W=  3552 Time=  444478 Seq No=  6744
+W=  3552 Time=  444500 Seq No=  7744
+W=  3833 Time=  445518 Ack=  5500
+W=  3833 Time=  445520 Seq No=  8052
+W=  3833 Time=  445543 Seq No=  9052
+W=  4093 Time=  446035 Ack=  5900
+W=  4093 Time=  446037 Seq No=  9333
+W=  4337 Time=  448569 Ack=  6744
+W=  4337 Time=  448571 Seq No=  9993
+W=  4337 Time=  448594 Seq No=  10993
+W=  4567 Time=  450563 Ack=  7744
+W=  4567 Time=  450564 Seq No=  11081
+W=  4567 Time=  450586 Seq No=  12081
+W=  4785 Time=  451116 Ack=  8052
+W=  4785 Time=  451119 Seq No=  12311
+W=  4993 Time=  453347 Ack=  9052
+W=  4993 Time=  453349 Seq No=  12837
+W=  4993 Time=  453379 Seq No=  13837
+W=  5193 Time=  454073 Ack=  9333
+W=  5193 Time=  454076 Seq No=  14045
+W=  5385 Time=  454096 Ack=  9993
+W=  5385 Time=  454099 Seq No=  14526
+W=  5570 Time=  455787 Seq No=  15378
+W=  5570 Time=  455786 Ack=  10993
+W=  5570 Time=  455813 Seq No=  16378
+W=  5749 Time=  456504 Ack=  11081
+W=  5749 Time=  456506 Seq No=  16563
+W=  5922 Time=  457283 Seq No=  16830
+W=  5922 Time=  457283 Ack=  12081
+W=  6090 Time=  457312 Seq No=  17830
+W=  6090 Time=  457312 Ack=  12311
+W=  6254 Time=  457332 Ack=  12837
+W=  6254 Time=  457332 Seq No=  18003
+W=  6254 Time=  457356 Seq No=  18401
+W=  6413 Time=  463254 Ack=  13837
+W=  6413 Time=  463255 Seq No=  19091
+W=  6413 Time=  463287 Seq No=  20091
+W=  2000 Time=  464816 Ack=  14045
+W=  2000 Time=  464817 Seq No=  13837
+W=  2000 Time=  464845 Seq No=  14837
+W=  2000 Time=  464857 Seq No=  15837
+W=  2500 Time=  465351 Ack=  14526
+W=  2500 Time=  465353 Seq No=  16045
+W=  2900 Time=  469674 Ack=  15378
+W=  2900 Time=  469678 Seq No=  17026
+W=  2900 Time=  469698 Seq No=  18026
+W=  3244 Time=  470962 Ack=  16378
+W=  3244 Time=  470965 Seq No=  18278
+W=  3552 Time=  470985 Ack=  16563
+W=  3552 Time=  470986 Seq No=  19278
+W=  3833 Time=  471012 Ack=  16830
+W=  3833 Time=  471013 Seq No=  19622
+W=  4093 Time=  471037 Ack=  17830
+W=  4093 Time=  471038 Seq No=  20115
+W=  4337 Time=  471063 Ack=  18003
+W=  4337 Time=  471064 Seq No=  20663
+W=  4337 Time=  471087 Seq No=  21663
+W=  4567 Time=  471782 Ack=  18401
+W=  4567 Time=  471784 Seq No=  22340
+W=  4785 Time=  471808 Ack=  19091
+W=  4785 Time=  471810 Seq No=  22968
+W=  4993 Time=  471825 Ack=  20091
+W=  4993 Time=  471828 Seq No=  23876
+W=  4993 Time=  471843 Seq No=  24876
+W=  5193 Time=  473502 Ack=  20250
+W=  5193 Time=  473505 Seq No=  25084
+W=  5193 Time=  474455 Ack=  -1
+W=  5193 Time=  480653 Ack=  -1
+W=  5193 Time=  481424 Ack=  -1
+W=  5193 Time=  481432 Ack=  -1
+W=  1000 Time=  481786 Seq No=  20250
+W=  1000 Time=  482188 Ack=  -1
+W=  1000 Time=  482196 Ack=  -1
+W=  1000 Time=  483021 Ack=  -1
+W=  1000 Time=  483029 Ack=  -1
+W=  1000 Time=  483035 Ack=  -1
+W=  1000 Time=  483041 Ack=  -1
+W=  1000 Time=  483048 Ack=  20250
+W=  1000 Time=  483050 Seq No=  20250
+W=  1000 Time=  483803 Ack=  20250
+W=  1000 Time=  483805 Seq No=  20250
+W=  1000 Time=  483834 Ack=  20250
+W=  1000 Time=  483836 Seq No=  20250
+W=  1000 Time=  483852 Ack=  20250
+W=  1000 Time=  483854 Seq No=  20250
+W=  1000 Time=  484615 Ack=  20250
+W=  1000 Time=  484618 Seq No=  20250
+W=  1000 Time=  484647 Ack=  20250
+W=  1000 Time=  484648 Seq No=  20250
+W=  1000 Time=  484672 Ack=  20250
+W=  1000 Time=  484675 Seq No=  20250
+W=  2000 Time=  490853 Ack=  21250
+W=  2000 Time=  490855 Seq No=  21250
+W=  2000 Time=  490887 Seq No=  22250
+W=  2000 Time=  492001 Ack=  -1
+W=  2000 Time=  492833 Ack=  -1
+W=  2000 Time=  492841 Ack=  -1
+W=  2000 Time=  492848 Ack=  -1
+W=  2000 Time=  492854 Ack=  -1
+W=  2000 Time=  492860 Ack=  -1
+W=  2000 Time=  493134 Ack=  -1
+W=  2500 Time=  496228 Ack=  22250
+W=  2500 Time=  496231 Seq No=  23250
+W=  2500 Time=  496259 Seq No=  23750
+W=  2900 Time=  497390 Ack=  23250
+W=  2900 Time=  497390 Seq No=  24750
+W=  2900 Time=  497424 Seq No=  25750
+W=  3244 Time=  500737 Ack=  23750
+W=  3244 Time=  500740 Seq No=  26150
+W=  3552 Time=  502738 Ack=  24750
+W=  3552 Time=  502741 Seq No=  26994
+W=  3552 Time=  502762 Seq No=  27994
+W=  3833 Time=  504476 Ack=  25750
+W=  3833 Time=  504478 Seq No=  28302
+W=  3833 Time=  504506 Seq No=  29302
+W=  4093 Time=  506362 Ack=  26150
+W=  4093 Time=  506365 Seq No=  29583
+W=  4337 Time=  508319 Ack=  26994
+W=  4337 Time=  508321 Seq No=  30243
+W=  4337 Time=  508344 Seq No=  31243
+W=  4567 Time=  509009 Ack=  27994
+W=  4567 Time=  509012 Seq No=  31331
+W=  4785 Time=  509032 Ack=  28302
+W=  4785 Time=  509033 Seq No=  32331
+W=  4785 Time=  509059 Seq No=  32561
+W=  4993 Time=  512882 Ack=  29302
+W=  4993 Time=  512884 Seq No=  33087
+W=  4993 Time=  512916 Seq No=  34087
+W=  5193 Time=  513489 Ack=  29583
+W=  5193 Time=  513492 Seq No=  34295
+W=  5385 Time=  514039 Ack=  30243
+W=  5385 Time=  514041 Seq No=  34776
+W=  5570 Time=  516673 Ack=  31243
+W=  5570 Time=  516676 Seq No=  35628
+W=  5570 Time=  516696 Seq No=  36628
+W=  2000 Time=  523222 Ack=  31331
+W=  2000 Time=  523223 Seq No=  31243
+W=  2000 Time=  523260 Seq No=  32243
+W=  2000 Time=  523273 Seq No=  33243
+W=  2500 Time=  523827 Ack=  32331
+W=  2500 Time=  523829 Seq No=  33331
+W=  2500 Time=  523851 Seq No=  34331
+W=  2900 Time=  525208 Ack=  32561
+W=  2900 Time=  525209 Seq No=  34831
+W=  3244 Time=  526001 Ack=  33087
+W=  3244 Time=  526004 Seq No=  35461
+W=  3552 Time=  526025 Ack=  34087
+W=  3552 Time=  526029 Seq No=  36331
+W=  3833 Time=  526045 Ack=  34295
+W=  3833 Time=  526046 Seq No=  37331
+W=  4093 Time=  526072 Ack=  34776
+W=  4093 Time=  526073 Seq No=  37639
+W=  4337 Time=  526099 Ack=  35628
+W=  4337 Time=  526100 Seq No=  38128
+W=  4567 Time=  526125 Ack=  36628
+W=  4567 Time=  526125 Seq No=  38869
+W=  4785 Time=  526148 Ack=  36813
+W=  4785 Time=  526148 Seq No=  39869
+W=  4785 Time=  526171 Seq No=  40869
+W=  4785 Time=  529060 Ack=  -1
+W=  4785 Time=  531819 Ack=  -1
+W=  4785 Time=  532328 Ack=  -1
+W=  4785 Time=  533709 Ack=  -1
+W=  4785 Time=  534328 Ack=  -1
+W=  4785 Time=  535098 Ack=  -1
+W=  4785 Time=  535106 Ack=  -1
+W=  4785 Time=  535112 Ack=  -1
+W=  1000 Time=  535119 Ack=  36813
+W=  1000 Time=  535122 Seq No=  36813
+W=  1000 Time=  535142 Ack=  36813
+W=  1000 Time=  535145 Seq No=  36813
+W=  1000 Time=  535969 Ack=  36813
+W=  1000 Time=  535970 Seq No=  36813
+W=  1000 Time=  536000 Ack=  36813
+W=  1000 Time=  536002 Seq No=  36813
+W=  1000 Time=  536019 Ack=  36813
+W=  1000 Time=  536021 Seq No=  36813
+W=  1000 Time=  536045 Ack=  36813
+W=  1000 Time=  536048 Seq No=  36813
+W=  2000 Time=  542410 Ack=  37813
+W=  2000 Time=  542413 Seq No=  37813
+W=  2000 Time=  542442 Seq No=  38813
+W=  2000 Time=  543944 Ack=  -1
+W=  2000 Time=  544693 Ack=  -1
+W=  2000 Time=  544702 Ack=  -1
+W=  2000 Time=  544709 Ack=  -1
+W=  2000 Time=  544715 Ack=  -1
+W=  2500 Time=  546302 Ack=  38813
+W=  2500 Time=  546304 Seq No=  39813
+W=  2500 Time=  546326 Seq No=  40813
+W=  2900 Time=  550475 Ack=  39813
+W=  2900 Time=  550478 Seq No=  41313
+W=  2900 Time=  550497 Seq No=  42313
+W=  3244 Time=  552489 Ack=  40813
+W=  3244 Time=  552491 Seq No=  42713
+W=  3244 Time=  552520 Seq No=  43713
+W=  3552 Time=  553550 Ack=  41313
+W=  3552 Time=  553553 Seq No=  44057
+W=  3552 Time=  553575 Seq No=  44365
+W=  3833 Time=  554590 Ack=  42313
+W=  3833 Time=  554591 Seq No=  44865
+W=  3833 Time=  554622 Seq No=  45865
+W=  4093 Time=  556351 Ack=  42713
+W=  4093 Time=  556353 Seq No=  46146
+W=  4337 Time=  558269 Ack=  43713
+W=  4337 Time=  558269 Seq No=  46806
+W=  4337 Time=  558300 Seq No=  47050
+W=  4567 Time=  558788 Ack=  44057
+W=  4567 Time=  558792 Seq No=  48050
+W=  4785 Time=  563670 Ack=  44365
+W=  4785 Time=  563671 Seq No=  48624
+W=  2000 Time=  564627 Ack=  44865
+W=  2000 Time=  564628 Seq No=  44365
+W=  2000 Time=  564802 Seq No=  45365
+W=  2000 Time=  564813 Seq No=  46365
+W=  2500 Time=  565948 Ack=  45865
+W=  2500 Time=  565948 Seq No=  46865
+W=  2500 Time=  565977 Seq No=  47865
+W=  2900 Time=  566689 Ack=  46146
+W=  2900 Time=  566690 Seq No=  48365
+W=  3244 Time=  566719 Ack=  46806
+W=  3244 Time=  566722 Seq No=  49046
+W=  3552 Time=  566737 Ack=  47050
+W=  3552 Time=  566738 Seq No=  50046
+W=  3833 Time=  566766 Ack=  48050
+W=  3833 Time=  566766 Seq No=  50050
+W=  4093 Time=  566789 Ack=  48624
+W=  4093 Time=  566790 Seq No=  50602
+W=  4093 Time=  566814 Seq No=  51602
+W=  4093 Time=  566823 Seq No=  52602
+W=  4337 Time=  568689 Ack=  49150
+W=  4337 Time=  568691 Seq No=  52717
+W=  4337 Time=  576430 Ack=  -1
+W=  1000 Time=  576770 Seq No=  49150
+W=  1000 Time=  577125 Ack=  -1
+W=  1000 Time=  577133 Ack=  -1
+W=  1000 Time=  578544 Ack=  -1
+W=  1000 Time=  579415 Ack=  -1
+W=  1000 Time=  579423 Ack=  -1
+W=  1000 Time=  579430 Ack=  -1
+W=  1000 Time=  579436 Ack=  49150
+W=  1000 Time=  579439 Seq No=  49150
+W=  1000 Time=  579461 Ack=  49150
+W=  1000 Time=  579463 Seq No=  49150
+W=  1000 Time=  579484 Ack=  49150
+W=  1000 Time=  579486 Seq No=  49150
+W=  1000 Time=  579514 Ack=  49150
+W=  1000 Time=  579516 Seq No=  49150
+W=  1000 Time=  579531 Ack=  49150
+W=  1000 Time=  579534 Seq No=  49150
+W=  1000 Time=  579549 Ack=  49150
+W=  1000 Time=  579550 Seq No=  49150
+W=  2000 Time=  584998 Ack=  50150
+W=  2000 Time=  585000 Seq No=  50150
+W=  2000 Time=  585040 Seq No=  51150
+W=  2000 Time=  587218 Ack=  -1
+W=  2000 Time=  589542 Ack=  -1
+W=  2000 Time=  590123 Ack=  -1
+W=  2000 Time=  592250 Ack=  -1
+W=  2000 Time=  593000 Ack=  -1
+W=  2000 Time=  593009 Ack=  -1
+W=  2500 Time=  594205 Ack=  51150
+W=  2500 Time=  594207 Seq No=  52150
+W=  2500 Time=  594235 Seq No=  53150
+W=  2900 Time=  594744 Ack=  52150
+W=  2900 Time=  594747 Seq No=  53650
+W=  2900 Time=  594767 Seq No=  54650
+W=  3244 Time=  601495 Ack=  53150
+W=  3244 Time=  601498 Seq No=  55050
+W=  3244 Time=  601520 Seq No=  56050
+W=  3552 Time=  602687 Ack=  53650
+W=  3552 Time=  602689 Seq No=  56394
+W=  3833 Time=  602712 Ack=  54650
+W=  3833 Time=  602715 Seq No=  57202
+W=  3833 Time=  602731 Seq No=  57483
+W=  4093 Time=  603890 Ack=  55050
+W=  4093 Time=  603893 Seq No=  58483
+W=  4093 Time=  603912 Seq No=  58743
+W=  4337 Time=  605734 Ack=  56050
+W=  4337 Time=  605736 Seq No=  59143
+W=  4337 Time=  605761 Seq No=  59387
+W=  4567 Time=  606787 Seq No=  60387
+W=  4567 Time=  606787 Ack=  56394
+W=  4785 Time=  609724 Ack=  57202
+W=  4785 Time=  609728 Seq No=  60961
+W=  4785 Time=  609748 Seq No=  61961
+W=  4993 Time=  612116 Ack=  57483
+W=  4993 Time=  612117 Seq No=  61987
+W=  5193 Time=  612842 Ack=  58483
+W=  5193 Time=  612845 Seq No=  62476
+W=  5385 Time=  612865 Seq No=  63476
+W=  5385 Time=  612866 Ack=  58743
+W=  5385 Time=  612887 Seq No=  63676
+W=  5570 Time=  614167 Ack=  59143
+W=  5570 Time=  614170 Seq No=  64128
+W=  5570 Time=  614201 Seq No=  64313
+W=  5749 Time=  614823 Ack=  59387
+W=  5749 Time=  614825 Seq No=  64713
+W=  5922 Time=  615958 Ack=  60387
+W=  5922 Time=  615961 Seq No=  65136
+W=  6090 Time=  615990 Seq No=  66136
+W=  6090 Time=  615991 Ack=  60961
+W=  6090 Time=  616015 Seq No=  66309
+W=  6254 Time=  617206 Ack=  61961
+W=  6254 Time=  617208 Seq No=  67051
+W=  6254 Time=  617241 Seq No=  68051
+W=  6413 Time=  617796 Ack=  61987
+W=  6413 Time=  617799 Seq No=  68215
+W=  6568 Time=  620520 Ack=  62476
+W=  6568 Time=  620523 Seq No=  68400
+W=  6720 Time=  623795 Ack=  63476
+W=  6720 Time=  623797 Seq No=  69044
+W=  6720 Time=  623827 Seq No=  70044
+W=  1148 Time=  624594 Ack=  63676
+W=  1148 Time=  624595 Seq No=  63476
+W=  2019 Time=  624627 Seq No=  64476
+W=  2019 Time=  624629 Ack=  64128
+W=  2514 Time=  624640 Seq No=  64824
+W=  2514 Time=  624642 Ack=  64313
+W=  2911 Time=  624653 Seq No=  65824
+W=  2911 Time=  624654 Ack=  64713
+W=  3254 Time=  624665 Seq No=  66824
+W=  3254 Time=  624667 Ack=  65136
+W=  3254 Time=  624678 Seq No=  67624
+W=  3561 Time=  626210 Ack=  66136
+W=  3561 Time=  626212 Seq No=  68390
+W=  3561 Time=  626420 Seq No=  69390
+W=  3841 Time=  627069 Ack=  66309
+W=  3841 Time=  627071 Seq No=  69697
+W=  4101 Time=  627091 Ack=  67051
+W=  4101 Time=  627094 Seq No=  70150
+W=  4344 Time=  627110 Ack=  68051
+W=  4344 Time=  627111 Seq No=  71150
+W=  4574 Time=  627137 Ack=  68215
+W=  4574 Time=  627137 Seq No=  71152
+W=  4792 Time=  627162 Ack=  68400
+W=  4792 Time=  627163 Seq No=  72152
+W=  4792 Time=  627188 Seq No=  72789
+W=  5000 Time=  627694 Ack=  69044
+W=  5000 Time=  627697 Seq No=  73192
+W=  5200 Time=  631076 Ack=  70044
+W=  5200 Time=  631078 Seq No=  74044
+W=  5200 Time=  631100 Seq No=  75044
+W=  5392 Time=  636054 Ack=  70196
+W=  5392 Time=  636057 Seq No=  75244
+W=  5392 Time=  637226 Ack=  -1
+W=  5392 Time=  637235 Ack=  -1
+W=  5392 Time=  637241 Ack=  -1
+W=  5392 Time=  637248 Ack=  -1
+W=  5392 Time=  637254 Ack=  -1
+W=  1000 Time=  637699 Seq No=  70196
+W=  1000 Time=  638101 Ack=  -1
+W=  1000 Time=  638109 Ack=  -1
+W=  1000 Time=  638116 Ack=  -1
+W=  1000 Time=  638122 Ack=  -1
+W=  1000 Time=  639049 Ack=  -1
+W=  1000 Time=  639056 Ack=  70196
+W=  1000 Time=  639059 Seq No=  70196
+W=  1000 Time=  639079 Ack=  70196
+W=  1000 Time=  639080 Seq No=  70196
+W=  1000 Time=  639106 Ack=  70196
+W=  1000 Time=  639108 Seq No=  70196
+W=  1000 Time=  639125 Ack=  70196
+W=  1000 Time=  639127 Seq No=  70196
+W=  1000 Time=  639151 Ack=  70196
+W=  1000 Time=  639154 Seq No=  70196
+W=  1000 Time=  639169 Ack=  70196
+W=  1000 Time=  639171 Seq No=  70196
+W=  1000 Time=  639186 Ack=  70196
+W=  1000 Time=  639187 Seq No=  70196
+W=  1000 Time=  641260 Ack=  70196
+W=  1000 Time=  641262 Seq No=  70196
+W=  2000 Time=  644752 Ack=  71196
+W=  2000 Time=  644753 Seq No=  71196
+W=  2000 Time=  644782 Seq No=  72196
+W=  2000 Time=  648121 Ack=  -1
+W=  2000 Time=  649051 Ack=  -1
+W=  2000 Time=  649805 Ack=  -1
+W=  2000 Time=  649813 Ack=  -1
+W=  2000 Time=  649819 Ack=  -1
+W=  2000 Time=  651923 Ack=  -1
+W=  2000 Time=  652527 Ack=  -1
+W=  2000 Time=  653264 Ack=  -1
+W=  2500 Time=  653273 Ack=  72196
+W=  2500 Time=  653276 Seq No=  73196
+W=  2900 Time=  653297 Ack=  73196
+W=  2900 Time=  653298 Seq No=  74196
+W=  2900 Time=  653323 Seq No=  74696
+W=  2900 Time=  653335 Seq No=  75696
+W=  3244 Time=  657613 Ack=  74196
+W=  3244 Time=  657616 Seq No=  76096
+W=  3244 Time=  657638 Seq No=  77096
+W=  3552 Time=  658737 Ack=  74696
+W=  3552 Time=  658738 Seq No=  77440
+W=  3833 Time=  659497 Ack=  75696
+W=  3833 Time=  659500 Seq No=  78248
+W=  4093 Time=  659519 Ack=  76096
+W=  4093 Time=  659520 Seq No=  79248
+W=  4093 Time=  659546 Seq No=  79529
+W=  4337 Time=  661526 Ack=  77096
+W=  4337 Time=  661529 Seq No=  80189
+W=  4337 Time=  661550 Seq No=  81189
+W=  4567 Time=  665544 Ack=  77440
+W=  4567 Time=  665547 Seq No=  81433
+W=  4785 Time=  669068 Ack=  78248
+W=  4785 Time=  669070 Seq No=  82007
+W=  4785 Time=  669094 Seq No=  83007
+W=  2000 Time=  670348 Ack=  79248
+W=  2000 Time=  670350 Seq No=  78248
+W=  2500 Time=  670377 Seq No=  79248
+W=  2500 Time=  670379 Ack=  79529
+W=  2900 Time=  670391 Seq No=  80248
+W=  2900 Time=  670392 Ack=  80189
+W=  3244 Time=  670404 Seq No=  81248
+W=  3244 Time=  670405 Ack=  81189
+W=  3552 Time=  670416 Seq No=  82248
+W=  3552 Time=  670418 Ack=  81433
+W=  3552 Time=  670433 Seq No=  83248
+W=  3552 Time=  670447 Seq No=  84248
+W=  3833 Time=  672045 Ack=  82007
+W=  3833 Time=  672047 Seq No=  84985
+W=  3833 Time=  672069 Seq No=  85266
+W=  4093 Time=  675129 Ack=  83007
+W=  4093 Time=  675133 Seq No=  85840
+W=  4093 Time=  675155 Seq No=  86840
+W=  4337 Time=  676149 Ack=  83033
+W=  4337 Time=  676152 Seq No=  87100
+W=  4337 Time=  676909 Ack=  -1
+W=  4337 Time=  676916 Ack=  -1
+W=  4337 Time=  676923 Ack=  -1
+W=  4337 Time=  678751 Ack=  -1
+W=  4337 Time=  680616 Ack=  -1
+W=  1000 Time=  681333 Ack=  83033
+W=  1000 Time=  681334 Seq No=  83033
+W=  1000 Time=  681382 Ack=  83033
+W=  1000 Time=  681384 Seq No=  83033
+W=  1000 Time=  682546 Ack=  83033
+W=  1000 Time=  682547 Seq No=  83033
+W=  1000 Time=  683128 Ack=  83033
+W=  1000 Time=  683129 Seq No=  83033
+W=  1000 Time=  683662 Ack=  83033
+W=  1000 Time=  683664 Seq No=  83033
+W=  1000 Time=  685381 Ack=  83033
+W=  1000 Time=  685383 Seq No=  83033
+W=  1000 Time=  685917 Ack=  83033
+W=  1000 Time=  685919 Seq No=  83033
+W=  2000 Time=  687434 Ack=  84033
+W=  2000 Time=  687436 Seq No=  84033
+W=  2000 Time=  687463 Seq No=  85033
+W=  2000 Time=  689113 Ack=  -1
+W=  2000 Time=  691311 Ack=  -1
+W=  2000 Time=  691870 Ack=  -1
+W=  2000 Time=  693130 Ack=  -1
+W=  2000 Time=  694087 Ack=  -1
+W=  2000 Time=  695050 Ack=  -1
+W=  2500 Time=  695838 Ack=  85033
+W=  2500 Time=  695840 Seq No=  86033
+W=  2900 Time=  695865 Ack=  86033
+W=  2900 Time=  695865 Seq No=  87033
+W=  2900 Time=  695893 Seq No=  87533
+W=  2900 Time=  695902 Seq No=  88533
+W=  3244 Time=  701329 Ack=  87033
+W=  3244 Time=  701332 Seq No=  88933
+W=  3244 Time=  701353 Seq No=  89933
+W=  3552 Time=  702357 Ack=  87533
+W=  3552 Time=  702359 Seq No=  90277
+W=  3833 Time=  703348 Ack=  88533
+W=  3833 Time=  703350 Seq No=  91085
+W=  3833 Time=  703372 Seq No=  92085
+W=  4093 Time=  703920 Ack=  88933
+W=  4093 Time=  703922 Seq No=  92366
+W=  4337 Time=  706176 Ack=  89933
+W=  4337 Time=  706179 Seq No=  93026
+W=  4337 Time=  706199 Seq No=  94026
+W=  4567 Time=  707222 Ack=  90277
+W=  4567 Time=  707224 Seq No=  94270
+W=  4785 Time=  707811 Ack=  91085
+W=  4785 Time=  707813 Seq No=  94844
+W=  4785 Time=  707835 Seq No=  95844
+W=  4993 Time=  710401 Ack=  92085
+W=  4993 Time=  710403 Seq No=  95870
+W=  4993 Time=  710423 Seq No=  96870
+W=  5193 Time=  712444 Ack=  92366
+W=  5193 Time=  712447 Seq No=  97078
+W=  1000 Time=  714425 Ack=  93026
+W=  2000 Time=  714439 Ack=  94026
+W=  2500 Time=  714442 Ack=  94270
+W=  2500 Time=  714456 Seq No=  92366
+W=  2500 Time=  714481 Seq No=  93366
+W=  2500 Time=  714488 Seq No=  94366
+W=  2500 Time=  714495 Seq No=  95366
+W=  2900 Time=  719514 Ack=  94844
+W=  2900 Time=  719539 Seq No=  96110
+W=  3244 Time=  720619 Ack=  95844
+W=  3244 Time=  720622 Seq No=  97084
+W=  3244 Time=  720655 Seq No=  98084
+W=  3552 Time=  721238 Ack=  95870
+W=  3552 Time=  721240 Seq No=  98428
+W=  3833 Time=  723110 Ack=  96870
+W=  3833 Time=  723112 Seq No=  98762
+W=  3833 Time=  723135 Seq No=  99762
+W=  4093 Time=  723639 Ack=  97078
+W=  4337 Time=  727577 Ack=  97559
+W=  4337 Time=  728281 Ack=  -1
+W=  4337 Time=  728288 Ack=  -1
+W=  4337 Time=  728294 Ack=  -1
+W=  4337 Time=  729469 Ack=  -1
+W=  4337 Time=  730071 Ack=  -1
+W=  4337 Time=  731383 Ack=  -1
+W=  1000 Time=  732128 Ack=  97559
+W=  1000 Time=  732130 Seq No=  97559
+W=  1000 Time=  732153 Ack=  97559
+W=  1000 Time=  732156 Seq No=  97559
+W=  1000 Time=  733296 Ack=  97559
+W=  1000 Time=  733298 Seq No=  97559
+W=  1000 Time=  734393 Ack=  97559
+W=  1000 Time=  734395 Seq No=  97559
+W=  2000 Time=  737210 Ack=  98559
+W=  2000 Time=  737212 Seq No=  98559
+W=  2000 Time=  737243 Seq No=  99559
+W=  2000 Time=  738916 Ack=  -1
+W=  2000 Time=  739496 Ack=  -1
+W=  2000 Time=  740002 Ack=  -1
+W=  2500 Time=  742767 Ack=  99559
+W=  2900 Time=  743759 Ack=  100000
